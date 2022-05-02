@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eds-Dbug/videos/static/css/main.ff7f3dc2.css",
+    "main.js": "/Eds-Dbug/videos/static/js/main.6970f2d6.js",
+    "index.html": "/Eds-Dbug/videos/index.html",
+    "main.ff7f3dc2.css.map": "/Eds-Dbug/videos/static/css/main.ff7f3dc2.css.map",
+    "main.6970f2d6.js.map": "/Eds-Dbug/videos/static/js/main.6970f2d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff7f3dc2.css",
+    "static/js/main.6970f2d6.js"
+  ]
+}
